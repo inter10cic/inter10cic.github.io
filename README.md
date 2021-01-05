@@ -1,8 +1,7 @@
 # 컴퓨터 잘하고 싶은 대학생의 스터디 블로그
 
-This is my personal space for studying numerous computer topics, mainly statistics and data related.
+This is my personal space for studying numerous computer topics, mainly statistics and data related. I am from Seoul, so I will be using both Korean and English throughout. 
 
-I am from Seoul, so I will be using both Korean and English throughout. 
 컴퓨터 관련 지식, 주로 통계와 데이터 처리를 공부합니다. 영어와 한국어를 동시에 사용하도록 하겠습니다.
 
 My first topic in focus is deep learning.
